@@ -40,4 +40,8 @@ public class Pattran {
 		Ststem.out.println(name);
 	}
 	
+	public static void chinna(Sting name){
+		Ststem.out.println(name);
+	}
+	
 }
