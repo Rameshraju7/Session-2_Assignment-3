@@ -31,4 +31,8 @@ public class Pattran {
 	
 	
 }
+
+	public static void rameshBabu(Sting name){
+		Ststem.out.println(name);
+	}
 }
